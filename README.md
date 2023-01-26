@@ -10,7 +10,7 @@ I am a decent coder yet a very bad drinker so designed this script to take in a 
 
 ## How to use?
 
-After install all the required packages for python, you must get a google maps API key, information on how to achieve this is found [here](https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key)
+After installing all the required packages in the script, you must get a google maps API key, information on how to achieve this is found [here](https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key)
 
 Once you've received an api key change the python script and modify `API_KEY` to your key. Next input your list of addresses into the `ADDRESSES` variable and then run the program! In order to prevent excess calls to the API for such a frivolous activity the program pickles the most recently received distance matrix for the next running of the script. 
 
