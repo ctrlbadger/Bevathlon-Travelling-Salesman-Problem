@@ -4,9 +4,9 @@ A script for the fastest Bevathlon Route using TSP using Googles OR-TOOLS
 
 ## Why?
 
-The sport of Bevathlon is given a set number of pubs one must as a team of four have a pint at each. The fastest team to go to all pubs and arrive back at the destination is the winner. 
+The sport of Bevathlon is, given a set number of pubs, one must as a team of four, have a pint at each establishment. The fastest team to go to all pubs and arrive back at the destination is the winner. 
 
-I am a decent coder yet a very bad drinker so designed this script to take in a list of addresses and give me and my team the most efficient route to get round all pubs using googles OR-Tools Travelling Salesman Algorithm. In the end we came third so not too bad.
+I am a decent coder yet a very bad drinker so I designed this script to take in a list of addresses and give me and my team the most efficient route to get round all pubs using googles OR-Tools Travelling Salesman Algorithm. In the end we came third so we didn't do too bad using it.
 
 ## How to use?
 
