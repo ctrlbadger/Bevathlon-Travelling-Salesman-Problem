@@ -64,3 +64,9 @@ https://www.google.com/maps/dir/The%2BGreyhound%252C%2B35%252C%2BKennedy%2BSquar
 
 https://www.google.com/maps/dir/112-114%2BThe%2BParade%252C%2BLeamington%2BSpa%2BCV32%2B4AQ%252C%2BWarwickshire%252C%2BEngland/
 ```
+
+On Google Maps these appears as these routes:
+![First-Part-Of-Route](https://user-images.githubusercontent.com/9659239/214743266-8f14ba69-3e54-49f8-bde9-905e7699b846.png)
+![Second-Part-Of-Route](https://user-images.githubusercontent.com/9659239/214743492-e1db6104-ae75-4f50-bd03-2fe55e8bfb49.png)
+
+
