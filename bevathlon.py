@@ -34,7 +34,7 @@ ADDRESSES = ['112-114 The Parade, Leamington Spa CV32 4AQ, Warwickshire, England
                        'The White Horse, 4-6 Clarendon Ave, Leamington Spa CV32 5PZ, Warwickshire, England'
                       ]
 PUBS_PER_DIRECTION_URL = 10 # Max is 10
-API_KEY = 'AIzaSyCLvZuFLY7NcjG5YkRjj8wvThDVmLsg3OE' # https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key
+API_KEY = 'ENTER API KEY' # https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key
 
 
 def create_data(ADDRESSES):
