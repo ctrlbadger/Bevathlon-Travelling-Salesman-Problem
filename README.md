@@ -1,6 +1,6 @@
 # Bevathlon-Travelling-Salesman-Problem
 
-A script for the fastest Bevathlon Route using TSP using Googles OR-TOOLS 
+A script for the fastest Bevathlon Route using TSP and Googles OR-TOOLS 
 
 ## Why?
 
